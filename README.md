@@ -2,6 +2,17 @@
 
 <img src= "/https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
+<div align="center">
+<h4>Database Schema Design</h4>
+<img src= "{{ asset('screenshort') }}/databaseschema.png" alt="Build Status">
+<h4>Website Home Page</h4>
+<img src= "{{ asset('screenshort') }}/homepage.png" alt="Build Status">
+<h4>AdminLogin</h4>
+<img src= "{{ asset('screenshort') }}/login.png" alt="Build Status">
+<h4>Admin Dashboard</h4>
+<img src= "{{ asset('screenshort') }}/dashboard.png" alt="Build Status">
+</div>
+
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src= "https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src= "https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>

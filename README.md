@@ -1,4 +1,4 @@
-
+<p>Laravel Blog Project<p>
 <div align="center">
 <h4>Database Schema Design</h4>
 <img src= "public/screenshort/databaseschema.png" alt="Database Schema Design">

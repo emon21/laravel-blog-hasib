@@ -4,7 +4,7 @@
 
 <div align="center">
 <h4>Database Schema Design</h4>
-<img src= "{{ asset('screenshort') }}/databaseschema.png" alt="Database Schema Design">
+<img src= "public/screenshort/databaseschema.png" alt="Database Schema Design">
 <h4>Website Home Page</h4>
 <img src= "{{ asset('screenshort') }}/homepage.png" alt="Build Status">
 <h4>AdminLogin</h4>

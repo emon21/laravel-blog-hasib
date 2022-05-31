@@ -6,11 +6,11 @@
 <h4>Database Schema Design</h4>
 <img src= "public/screenshort/databaseschema.png" alt="Database Schema Design">
 <h4>Website Home Page</h4>
-<img src= "{{ asset('screenshort') }}/homepage.png" alt="Build Status">
+<img src= "public/screenshort/homepage.png" alt="Build Status">
 <h4>AdminLogin</h4>
-<img src= "{{ asset('screenshort') }}/login.png" alt="Build Status">
+<img src= "public/screenshort/login.png" alt="Build Status">
 <h4>Admin Dashboard</h4>
-<img src= "{{ asset('screenshort') }}/dashboard.png" alt="Build Status">
+<img src= "public/screenshort/dashboard.png" alt="Build Status">
 </div>
 
 <p align="center">
